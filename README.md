@@ -6,7 +6,7 @@ Back to Canvas: https://learning.unisg.ch/courses/13771/modules
 
 ## Link & Content
 
-➡️ **https://dombbb.github.io/cs-hs22**
+**https://dombbb.github.io/cs-hs22** 
 
 
 
