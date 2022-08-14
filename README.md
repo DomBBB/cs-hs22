@@ -3,9 +3,11 @@
 Back to Canvas: https://learning.unisg.ch/courses/13771/modules
 
 
-## ✨ Open it in your browser ✨
+
+## Open it in your browser
 
 ➡️ **https://dombbb.github.io/cs-hs22**
+
 
 
 ## Requirements
@@ -14,6 +16,7 @@ JupyterLite is being tested against modern web browsers:
 
 - Firefox 90+
 - Chromium 89+
+
 
 
 ## Source
