@@ -4,7 +4,7 @@ Back to Canvas: https://learning.unisg.ch/courses/13771/modules
 
 
 
-## Open it in your browser
+## Link & Content
 
 ➡️ **https://dombbb.github.io/cs-hs22**
 
